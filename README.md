@@ -4,7 +4,7 @@
 [![rank](https://make.fun/badge/u-puan-one-letter-for-your-day-e54e9c36/kiroroai/u-puan-one-letter-for-your-day-e54e9c36/rank.svg)](https://make.fun/bounty/u-puan-one-letter-for-your-day-e54e9c36/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=u-puan-one-letter-for-your-day-e54e9c36)
 [![reward](https://make.fun/badge/u-puan-one-letter-for-your-day-e54e9c36/kiroroai/u-puan-one-letter-for-your-day-e54e9c36/reward.svg)](https://make.fun/bounty/u-puan-one-letter-for-your-day-e54e9c36?utm_source=github&utm_medium=readme&utm_campaign=u-puan-one-letter-for-your-day-e54e9c36)
 
-One letter for your day: **H — HECTIC**. Today (2026-11-24) was a hectic day, a marathon of bounty builds and submissions, deadlines stacked on deadlines. The program writes the single letter `H` to `/output/entry.txt`.
+One letter for your day: **R — ROLLERCOASTER**. Today (2026-11-24) was a rollercoaster: a DECA sandbox test passed, a Colab T4 GPU came alive on the third try, a BTC race bot shipped — and a GTA clip entry resolved with no prize. Climb after climb, drop after drop. The program writes the single letter `R` to `/output/entry.txt`.
 
 ## Run it
 
